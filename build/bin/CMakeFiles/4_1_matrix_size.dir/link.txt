@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -O3 -DNDEBUG CMakeFiles/4_1_matrix_size.dir/4_1_matrix_size.cpp.o -o 4_1_matrix_size 

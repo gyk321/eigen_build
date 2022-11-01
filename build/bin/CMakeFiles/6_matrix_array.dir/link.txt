@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -O3 -DNDEBUG CMakeFiles/6_matrix_array.dir/6_matrix_array.cpp.o -o 6_matrix_array 

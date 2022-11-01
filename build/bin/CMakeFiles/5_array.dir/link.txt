@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -O3 -DNDEBUG CMakeFiles/5_array.dir/5_array.cpp.o -o 5_array 

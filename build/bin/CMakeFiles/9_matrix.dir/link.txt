@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -O3 -DNDEBUG CMakeFiles/9_matrix.dir/9_matrix.cpp.o -o 9_matrix 

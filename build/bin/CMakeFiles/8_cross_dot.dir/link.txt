@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -O3 -DNDEBUG CMakeFiles/8_cross_dot.dir/8_cross_dot.cpp.o -o 8_cross_dot 

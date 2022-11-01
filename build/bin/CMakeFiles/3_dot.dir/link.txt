@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -O3 -DNDEBUG CMakeFiles/3_dot.dir/3_dot.cpp.o -o 3_dot 

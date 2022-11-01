@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -O3 -DNDEBUG CMakeFiles/7_transpose.dir/7_transpose.cpp.o -o 7_transpose 
